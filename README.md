@@ -31,6 +31,13 @@ REST APIs • Git • GitHub • NPM
 - Learning more about **DevOps** and **cloud deployment**  
 
 ---
+### 🧩 Projects
+Here are a few things I’ve built:
+- 🔗 **[explainify](#)** — An AI-powered STEM-concept expaliner with local examples to generate simple results. 
+- 🔗 **[Mapwidth](#)** — its a tool that calculate the width of road using OSRM   
+- 🔗 **[Shop ON](#)** — its a Next.js project build using next-auth,mongoDB.
+- 
+---
 
 
 ### 📫 Connect With Me
