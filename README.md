@@ -32,18 +32,11 @@ REST APIs • Git • GitHub • NPM
 
 ---
 
-### 🧩 Projects
-Here are a few things I’ve built:
-- 🔗 **[Project 1 Name](#)** — A short description of what it does.  
-- 🔗 **[Project 2 Name](#)** — Another cool project you’ve worked on.  
-- 🔗 **[Project 3 Name](#)** — Something fun or experimental!  
-
----
 
 ### 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TarunpreetSingh23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/tarunpreet-singh-1010b1319/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarunpreets29@gamil.com)
 
 ---
 
