@@ -48,7 +48,7 @@ Here are a few things I’ve built:
 ---
 
 ### ⚡ Fun Fact
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
+> “Any tool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
 
 ---
 
