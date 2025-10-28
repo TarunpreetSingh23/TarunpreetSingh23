@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tarunpreet Singh  
 
-🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**
+🚀 **MERN-Stack Developer | Problem Solver | Tech Enthusiast**
 
 I’m passionate about crafting responsive web applications, designing smooth user interfaces, and building robust backends. I love turning ideas into functional, high-quality products through clean code and modern technologies.
 
