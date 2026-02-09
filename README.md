@@ -28,7 +28,7 @@ REST APIs • Git • GitHub • NPM
 ### 💡 What I’m Currently Working On
 - Building full-stack web applications with **MERN** and **Next.js**  
 - Exploring backend performance optimization and API integrations  
-- Learning more about **DevOps** and **cloud deployment**  
+- Learning more about **cloud deployment**  
 
 ---
 ### 🧩 Projects
